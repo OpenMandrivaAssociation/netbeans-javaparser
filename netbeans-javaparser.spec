@@ -3,7 +3,7 @@
 
 Name:           netbeans-javaparser
 Version:        6.9
-Release:        2
+Release:        4
 Summary:        NetBeans Java Parser
 License:        GPLv2 with exceptions
 Url:            http://java.netbeans.org/javaparser/
