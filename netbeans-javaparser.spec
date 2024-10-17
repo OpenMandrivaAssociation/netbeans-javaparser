@@ -6,7 +6,7 @@ Version:        6.9
 Release:        4
 Summary:        NetBeans Java Parser
 License:        GPLv2 with exceptions
-Url:            http://java.netbeans.org/javaparser/
+Url:            https://java.netbeans.org/javaparser/
 Group:          Development/Java
 # The source for this package was pulled from upstream's vcs.  Use the
 # following commands to generate the tarball:
